@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ****Python, C, C#, PHP, LARAVEL****
 - ☕️ Coffee? Yes! **Yes!**
 - 💬 My hobbies: **I do love playing basketball, watching movies/anime/kdrama and listening to music**
-- 📫 How to reach me **cedricbaastemabait22@gmail.com**
+- 📫 How to reach me **cedricbaastemabait22@gmail.com | ced.solano22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
