@@ -1,6 +1,6 @@
 <head><img align="center alt="banner" width="3750" height=430" src="https://preview.redd.it/nico-robin-throughout-the-years-v0-1xfd7cxod1g81.gif?width=500&auto=webp&s=ff69495a9559653a6b403fdb612530ceea51d377">
 <h1 align="center">Kon'nichiwa, watashi wa Sedorikku Māku👋</h1>
-<h3 align="center">I'm a third year BSIT student at Polytechnic University of the Philippines.</h3>
+<h3 align="center">I'm a fourth year BSIT student at Polytechnic University of the Philippines.</h3>
 <img align="right" alt="Coding" width= "400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0MWpkOHJyYmkyMzkzcHR6aHk5aXpwOHZvbXp4eXJjYmZ3NTc0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 - 🌱 I’m currently learning ****Python, C, C#, PHP, LARAVEL****
