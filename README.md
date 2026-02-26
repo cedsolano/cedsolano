@@ -9,6 +9,7 @@
 
 ---
 
+
 ### ☕ About Me
 - ☕ **Coffee?** Yes! **Yes!**
 - 💬 **Fun fact:** I enjoy exploring new technologies and frameworks to build efficient solutions.
@@ -21,6 +22,8 @@
 <a href="https://www.instagram.com/cedsolano_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://discord.gg/cxd4726" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
+
+
 
 <h2 align="left">🛠 Tech Stack</h2>
 
