@@ -37,7 +37,7 @@
 </p>
 
 ---
-<h2 align="center">🔗 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <table align="center" width="1000px" style="border:1px solid #d0d7de; border-radius:10px;">
 <tr>
