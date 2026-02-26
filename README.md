@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0MWpkOHJyYmkyMzkzcHR6aHk5aXpwOHZvbXp4eXJjYmZ3NTc0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0MWpkOHJyYmkyMzkzcHR6aHk5aXpwOHZvbXp4eXJjYmZ3NTc0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -54,14 +54,16 @@
     </td>
     <td align="center" valign="top" width="300">
       <strong>DevOps & Tools</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" title="Figma"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="38" title="Canva"/>
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="38" title="Power BI"/>
-      <img src="https://static-00.iconduck.com/assets.00/flutterflow-icon-2048x2048-itq40n5p.png" width="38" title="FlutterFlow" />
+      <img src="https://skillicons.dev/icons?i=github,git,figma,canva,powerbi" height="40" />
+      <img src="https://cdn.worldvectorlogo.com/logos/flutterflow.svg" width="35" height="35" style="border-radius: 8px; margin-bottom: 3px;" title="FlutterFlow" />
     </td>
   </tr>
 </table>
 
 <br>
+
+---
+
+<p align="center">
+✨ Always learning. Always building. Always improving.
+</p>
