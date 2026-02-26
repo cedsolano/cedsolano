@@ -14,7 +14,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="180" style="margin-top: -20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0MWpkOHJyYmkyMzkzcHR6aHk5aXpwOHZvbXp4eXJjYmZ3NTc0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
+<div style="float: right; margin-top: -60px; margin-right: 10px;">
+  <img alt="Coding" width="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0MWpkOHJyYmkyMzkzcHR6aHk5aXpwOHZvbXp4eXJjYmZ3NTc0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
+</div>
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -48,15 +50,15 @@
       <strong>Backend</strong><br><br>
       <img src="https://skillicons.dev/icons?i=py,dotnet,nestjs" height="40" />
     </td>
-    <td align="center" valign="top" width="200">
+    <td align="center" valign="top" width="220">
       <strong>Databases</strong><br><br>
       <img src="https://skillicons.dev/icons?i=sqlite,mysql,mssql" height="40" />
     </td>
-    <td align="center" valign="top" width="300">
+    <td align="center" valign="top" width="320">
       <strong>DevOps & Tools</strong><br><br>
       <img src="https://skillicons.dev/icons?i=github,git,figma,canva" height="40" />
-      <img src="https://img.shields.io/badge/-FlutterFlow-42D3ED?style=flat-square&logo=Flutter&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black" height="40" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" title="Power BI" />
+      <img src="https://img.shields.io/badge/FlutterFlow-42D3ED?style=for-the-badge&logo=flutter&logoColor=white" height="30" title="FlutterFlow" />
     </td>
   </tr>
 </table>
