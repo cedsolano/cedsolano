@@ -33,21 +33,17 @@
 
 ---
 
-<h2 align="center">🔗 Tech Stack</h2>
-
-<div align="center">
+<h2 align="left">🛠 Tech Stack</h2>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> |
-| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="35"/> |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/> |
-| **DevOps / Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="35"/> <img src="https://img.shields.io/badge/FlutterFlow-42D3ED?style=flat-square&logo=Flutter&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" height="22"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,flutter,tailwind,cpp" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=py,dotnet,nestjs" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=sqlite,mysql,mssql" /> |
+| **DevOps / Tools** | <img src="https://skillicons.dev/icons?i=github,git,figma,canva,powerbi" /> |
 
-</div>
-
--
+---
 
 <p align="center">
-Always learning. Always building. Always improving.
+✨ Always learning. Always building. Always improving.
 </p>
