@@ -15,57 +15,61 @@
 <a href="https://discord.gg/cxd4726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cxd4726" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🚀 Tech Stack</h3>
+<h2>🔗 Tech Stack</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="
+  border: 1px solid #d0d7de;
+  border-radius: 10px;
+  overflow: hidden;
+  max-width: 1000px;
+">
 
-  <!-- FRONTEND BOX -->
-  <div style="flex: 1; min-width: 250px; border: 2px solid #2f80ed; border-radius: 15px; padding: 15px;">
-    <h4 align="center">Frontend</h4>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-    </p>
+  <div style="display: flex; text-align: center;">
+
+    <!-- FRONTEND -->
+    <div style="flex: 1; padding: 20px; border-right: 1px solid #d0d7de;">
+      <h3>Frontend</h3>
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+    </div>
+
+    <!-- BACKEND -->
+    <div style="flex: 1; padding: 20px; border-right: 1px solid #d0d7de;">
+      <h3>Backend</h3>
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+    </div>
+
+    <!-- DATABASE -->
+    <div style="flex: 1; padding: 20px; border-right: 1px solid #d0d7de;">
+      <h3>Databases</h3>
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+    </div>
+
+    <!-- DEVOPS -->
+    <div style="flex: 1; padding: 20px;">
+      <h3>DevOps / Tools</h3>
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/>
+    </div>
+
   </div>
 
-  <!-- BACKEND BOX -->
-  <div style="flex: 1; min-width: 250px; border: 2px solid #27ae60; border-radius: 15px; padding: 15px;">
-    <h4 align="center">Backend</h4>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
-    </p>
-  </div>
-
-  <!-- DATABASE BOX -->
-  <div style="flex: 1; min-width: 250px; border: 2px solid #f2994a; border-radius: 15px; padding: 15px;">
-    <h4 align="center">Database</h4>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
-    </p>
-  </div>
-
-  <!-- TOOLS BOX -->
-  <div style="flex: 1; min-width: 250px; border: 2px solid #9b51e0; border-radius: 15px; padding: 15px;">
-    <h4 align="center">DevOps & Other Tools</h4>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-    </p>
-  </div>
-
-</div>>
+</div>
 
