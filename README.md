@@ -12,15 +12,7 @@
 ### ☕ About Me
 - ☕ **Coffee?** Yes! **Yes!**
 - 💬 **Fun fact:** I enjoy exploring new technologies and frameworks to build efficient solutions.
-- 📫 **Reach me at:** [cedricbaastemabait22@gmail.com](mailto:cedricbaastemabait22@gmail.com)
-
----
-
-### 🚀 Featured Projects
-- 🎾 **PickleTime** – A full-stack pickleball reservation system featuring user scheduling and court management.
-- 🏢 **Octalphilippines Inc.** – Developing custom software solutions and IT consultancy web presence.
-
----
+- 📫 **Reach me at:** [cedricbaastemabait22@gmail.com](mailto:ced.solano22@gmail.com)
 
 ### 🌐 Connect with Me
 <p align="left">
