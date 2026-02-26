@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="left">🛠 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <table width="100%">
   <tr>
@@ -49,12 +49,12 @@
       <img src="https://skillicons.dev/icons?i=mysql,sqlite,mssql" />
     </td>
     <td align="center" width="25%" valign="top">
-      <h4>DevOps / Tools</h4>
-      <img src="https://skillicons.dev/icons?i=github,git,figma,docker" />
+      <h4>DevOps & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=github,git,figma,canva,powerbi" /><br><br>
+      <img src="https://img.shields.io/badge/FlutterFlow-42D3ED?style=for-the-badge&logo=Flutter&logoColor=white" height="25" />
     </td>
   </tr>
 </table>
-
 ---
 
 <p align="center">
