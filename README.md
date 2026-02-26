@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0MWpkOHJyYmkyMzkzcHR6aHk5aXpwOHZvbXp4eXJjYmZ3NTc0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
+<img align="right" alt="Coding" width="180" style="margin-top: -20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0MWpkOHJyYmkyMzkzcHR6aHk5aXpwOHZvbXp4eXJjYmZ3NTc0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -54,16 +54,11 @@
     </td>
     <td align="center" valign="top" width="300">
       <strong>DevOps & Tools</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=github,git,figma,canva,powerbi" height="40" />
-      <img src="https://cdn.worldvectorlogo.com/logos/flutterflow.svg" width="35" height="35" style="border-radius: 8px; margin-bottom: 3px;" title="FlutterFlow" />
+      <img src="https://skillicons.dev/icons?i=github,git,figma,canva" height="40" />
+      <img src="https://img.shields.io/badge/-FlutterFlow-42D3ED?style=flat-square&logo=Flutter&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black" height="40" />
     </td>
   </tr>
 </table>
 
 <br>
-
----
-
-<p align="center">
-✨ Always learning. Always building. Always improving.
-</p>
